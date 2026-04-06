@@ -89,9 +89,9 @@ We3 Solutions website includes:
 
 ## ⚙️ Tech Stack
 
-- Next.js  
-- Vercel hosting  
-- SEO-first architecture  
+- GitHub Pages hosting  
+- Lightweight static HTML deployment  
+- SEO-first structure    
 
 ---
 
