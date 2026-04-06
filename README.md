@@ -74,7 +74,7 @@ We3 Solutions website includes:
 - Free SEO audit as entry point  
 - Real before/after results  
 - Transparent pricing  
-- WhatsApp-based conversion (Pakistan market)  
+- Direct messaging-based conversion (WhatsApp & instant contact)
 
 ---
 
