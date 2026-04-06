@@ -1,4 +1,4 @@
-We3 Solutions | SEO Optimization | Ranking Systems | AI SEO Tools
+We3 Solutions | SEO Optimization | Ranking Systems | AI SEO & Automation Tools
 
 # We3 Solutions — AI SEO Optimization & Fast Ranking Systems
 
